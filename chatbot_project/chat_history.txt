@@ -1,0 +1,6 @@
+=== PyBot Chat History ===
+
+You: hello,how areyou
+PyBot: Greetings!
+You: bye
+PyBot: Bye! Take care.
